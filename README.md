@@ -181,6 +181,7 @@ public class customadaptor extends BaseAdapter {
 
 ```
 ## OUTPUT
+![Screenshot (218)](https://user-images.githubusercontent.com/75243072/169560382-1bcf1f19-4b32-44a2-a39d-dd36262cdcf2.png)
 
 
 
